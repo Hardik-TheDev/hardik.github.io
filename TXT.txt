@@ -1,0 +1,2 @@
+I do not own this website in any way.
+This website is forked from https://github.com/tailwindtoolbox/Profile-Card
